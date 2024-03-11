@@ -24,14 +24,14 @@ and <a href="http://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/09/A
 <p></p>
 <ul>
 <li>
-<p>Negotiations on the Agreement for the <strong>Trade Pillar &lt;&lt;hyperlink to the Trade pillar page&gt;&gt;</strong> are
+<p>Negotiations on the Agreement for the <a href="https://master.d2wnxy28hw957.amplifyapp.com/trade-pillar/" rel="noopener noreferrer nofollow" target="_blank">Trade Pillar</a><strong> </strong>are
 ongoing;</p>
 </li>
 </ul>
 <p></p>
 <ul>
 <li>
-<p>The <strong>Supply Chain Agreement &lt;&lt;hyperlink to the P2 page&gt;&gt; </strong>was
+<p>The <a href="https://master.d2wnxy28hw957.amplifyapp.com/supply-chain-agreement/" rel="noopener noreferrer nofollow" target="_blank">Supply Chain Agreement</a><strong> </strong>was
 signed in November 2023, and entered-into-force on 24 February 2024 following
 ratification by Japan, the US, Singapore, Fiji and India;</p>
 </li>
@@ -39,20 +39,20 @@ ratification by Japan, the US, Singapore, Fiji and India;</p>
 <p></p>
 <ul>
 <li>
-<p>Negotiations on the <strong>Clean Economy Agreement &lt;&lt;hyperlink to the P3 page&gt;&gt;</strong> were
+<p>Negotiations on the <a href="https://master.d2wnxy28hw957.amplifyapp.com/clean-economy-agreement/" rel="noopener noreferrer nofollow" target="_blank">Clean Economy Agreement</a><strong> </strong>were
 substantially concluded in November 2023;</p>
 </li>
 </ul>
 <p></p>
 <ul>
 <li>
-<p>Negotiations on the Fair Economy Agreement <strong>&lt;&lt;hyperlink to the P4 page&gt;&gt;</strong> were
+<p>Negotiations on the Fair Economy Agreement <a href="https://master.d2wnxy28hw957.amplifyapp.com/fair-economy-agreement/" rel="noopener noreferrer nofollow" target="_blank">Fair Economy Agreement</a> were
 also substantially concluded in November 2023.</p>
 </li>
 </ul>
 <p></p>
 <p>In addition, IPEF partners have substantially concluded negotiations on
-an <strong>Agreement on the IPEF &lt;&lt;hyperlink to page&gt;&gt; </strong>which
+an <strong>Agreement on the IPEF &lt;&lt;hyperlink to text&gt;&gt; </strong>which
 will establish an IPEF Ministerial Council as well as a Ministerial Joint
 Commission.</p>
 <p></p>
