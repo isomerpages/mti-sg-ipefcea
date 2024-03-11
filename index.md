@@ -8,7 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Indo-Pacific Economic Framework for Prosperity
-      background: /images/hero-banner.png
+      background: /images/IMG_9706.jpg
       key_highlights:
         - title: About
           description: ""
