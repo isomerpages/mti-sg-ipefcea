@@ -13,21 +13,20 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: About
-          description: Find out more about the IPEF
+          description: ""
           url: /about/
-        - title: "Leaders & Ministerial Meetings "
-          description: Find out more about meetings
+        - title: Leaders & Ministerial Meetings
+          description: ""
           url: /leaders-ministerial-meetings
         - title: Pillars and Finalised Agreements
-          description: More about the pillars
+          description: ""
           url: /pillars-and-finalised-agreements
         - title: Public Consultations
-          description: Key Highlight description
+          description: ""
           url: /public-consultations
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Indo-Pacific Economic Framework for Prosperity
+      subtitle: Media Centre
+      button: Here
+      url: /media-centre
 ---
