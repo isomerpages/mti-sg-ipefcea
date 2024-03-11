@@ -6,7 +6,7 @@ description: ""
 ---
 <ul>
 <li>
-<p><a href="https://master.d2wnxy28hw957.amplifyapp.com/trade-pillar/" rel="noopener noreferrer nofollow" target="_blank">Trade pillar</a> 
+<p><a href="https://master.d2wnxy28hw957.amplifyapp.com/trade-pillar/" rel="noopener noreferrer nofollow" target="_blank">Trade pillar</a>
 </p>
 </li>
 <li>
