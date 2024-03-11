@@ -30,22 +30,22 @@ and <a href="http://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/09/A
 <p></p>
 <ul>
 <li>
-<p>The Supply Chain Agreement was signed in November 2023, and entered-into-force
-on 24 February 2024 following ratification by Japan, the US, Singapore,
-Fiji and India;</p>
+<p>The <a href="https://www.ipef.gov.sg/supply-chain-agreement/" rel="noopener noreferrer nofollow" target="_blank">Supply Chain Agreement</a> was
+signed in November 2023, and entered-into-force on 24 February 2024 following
+ratification by Japan, the US, Singapore, Fiji and India;</p>
 </li>
 </ul>
 <p></p>
 <ul>
 <li>
-<p>Negotiations on the Clean Economy Agreement were substantially concluded
-in November 2023;</p>
+<p>Negotiations on the <a href="https://www.ipef.gov.sg/clean-economy-agreement/" rel="noopener noreferrer nofollow" target="_blank">Clean Economy Agreement</a> were
+substantially concluded in November 2023;</p>
 </li>
 </ul>
 <p></p>
 <ul>
 <li>
-<p>Negotiations on the Fair Economy Agreement Fair Economy Agreement were
+<p>Negotiations on the <a href="https://www.ipef.gov.sg/fair-economy-agreement/" rel="noopener noreferrer nofollow" target="_blank">Fair Economy Agreement</a> were
 also substantially concluded in November 2023.</p>
 </li>
 </ul>
