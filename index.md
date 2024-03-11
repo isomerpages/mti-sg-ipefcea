@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: About
           description: ""
-          url: /about/
+          url: /about-ipef/
         - title: Leaders & Ministerial Meetings
           description: ""
           url: /leaders-ministerial-meetings
