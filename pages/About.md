@@ -24,8 +24,7 @@ and <a href="http://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/09/A
 <p></p>
 <ul>
 <li>
-<p>Negotiations on the Agreement for the <a href="https://www.ipef.gov.sg/trade-pillar/" rel="noopener noreferrer nofollow" target="_blank">Trade</a><a href="https://master.d2wnxy28hw957.amplifyapp.com/trade-pillar/" rel="noopener noreferrer nofollow" target="_blank"> Pillar</a><strong> </strong>are
-ongoing;</p>
+<p>Negotiations on the Agreement for the <a href="https://www.ipef.gov.sg/trade-pillar/" rel="noopener noreferrer nofollow" target="_blank">Trade Pillar</a>are ongoing;</p>
 </li>
 </ul>
 <p></p>
