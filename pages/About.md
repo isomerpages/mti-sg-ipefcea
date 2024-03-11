@@ -4,8 +4,7 @@ permalink: /about-ipef/
 variant: tiptap
 description: ""
 ---
-<p><strong>Indo-Pacific Economic Framework for Prosperity (IPEF)&nbsp;</strong>
-</p>
+<h3><strong>Indo-Pacific Economic Framework for Prosperity (IPEF)&nbsp;</strong></h3>
 <p></p>
 <p>The Indo-Pacific Economic Framework for Prosperity (IPEF) was launched
 on 23 May 2022 and currently includes 14 partners - Australia, Brunei Darussalam,
