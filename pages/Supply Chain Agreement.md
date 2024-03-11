@@ -4,10 +4,24 @@ permalink: /supply-chain-agreement/
 variant: tiptap
 description: ""
 ---
-### **Government Agency Privacy Statement**
-
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
-
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
-
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+<p>The Supply Chain Agreement entered-into-force on 24 February 2024 following
+ratification by Japan, the US, Singapore, Fiji and India. The Agreement
+had been signed by all 14 IPEF partners on 14 November 2023, after negotiations
+were substantially concluded on 27 May 2023 – the first IPEF Agreement
+to be concluded.&nbsp;</p>
+<p></p>
+<p>The Supply Chain Agreement establishes the first multi-country arrangement
+to strengthen the resilience and connectivity of supply chains through
+collective and individual actions. Three coordination bodies will be established
+to advance cooperation among IPEF countries: (a) a Supply Chain Council
+that will develop sector-specific action plans to strengthen resilience
+in critical sectors and key goods; (b) a Crisis Response Network to facilitate
+emergency communications and coordination between governments during supply
+chain disruptions; and (c) a tripartite Labour Rights Advisory Board that
+will help promote labour rights in IPEF countries’ supply chains.&nbsp;</p>
+<p></p>
+<p>The text of the Agreement can be found <a href="https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/IPEF/2023-09-07-IPEF-PillarII-Final-Text_Public-Release.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>
+<br>
+<br>
+</p>
