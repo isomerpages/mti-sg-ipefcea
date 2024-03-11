@@ -9,8 +9,6 @@ sections:
   - hero:
       title: Indo-Pacific Economic Framework for Prosperity
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: About
           description: ""
