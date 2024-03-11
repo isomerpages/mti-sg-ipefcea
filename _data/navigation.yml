@@ -1,15 +1,15 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: "About "
+    url: /about-ipef
+  - title: More info
+    url: /permalink
+    sublinks:
+      - title: Leaders & Ministerial Meetings
+        url: /leaders-ministerial-meetings
+      - title: Pillars and Agreements
+        url: /pillars-and-finalised-agreements
+      - title: Public Consultations
+        url: /public-consultations
