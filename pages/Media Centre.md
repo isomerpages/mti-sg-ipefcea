@@ -4,6 +4,10 @@ permalink: /media-centre/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20220523_IPEF_Launch_header_png.png">
+</div>
 <ul>
 <li>
 <p><a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2023/11/MTI-Press-Release-on-IPEF-Ministerial-Meeting-16-November-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">16 November 2023</a>:
