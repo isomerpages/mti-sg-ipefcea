@@ -53,6 +53,6 @@ staging: https://staging-lite.d328z8av3qhxtv.amplifyapp.com
 prod: https://master.d2wnxy28hw957.amplifyapp.com
 facebook-pixel: ""
 shareicon: /images/ipef.png
-is_government: false
+is_government: true
 google_analytics_ga4: ""
 linkedin-insights: ""
