@@ -4,6 +4,10 @@ permalink: /pillars-and-finalised-agreements/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AP23321040673283.jpg">
+</div>
 <ul>
 <li>
 <p><a href="https://www.ipef.gov.sg/trade-pillar/" rel="noopener noreferrer nofollow" target="_blank">Trade pillar</a>
