@@ -6,6 +6,9 @@ description: ""
 ---
 <h3><strong>Indo-Pacific Economic Framework for Prosperity (IPEF)&nbsp;</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20231117___PM_Lee_at_IPEF_Leaders_Meeting_2023_hero_jpg.jpg">
+</div>
 <p>The Indo-Pacific Economic Framework for Prosperity (IPEF) was launched
 on 23 May 2022 and currently includes 14 partners - Australia, Brunei Darussalam,
 Fiji, India, Indonesia, Japan, Republic of Korea, Malaysia, New Zealand,
