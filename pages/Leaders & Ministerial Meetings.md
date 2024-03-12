@@ -4,6 +4,10 @@ permalink: /leaders-ministerial-meetings/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8066.jpg">
+</div>
 <ul>
 <li>
 <p>Virtual Ministerial Meeting, March 2024 (link to latest press release,
