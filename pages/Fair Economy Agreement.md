@@ -15,5 +15,4 @@ corruption including bribery, and support efforts to improve tax transparency
 and the exchange of information, domestic resource mobilisation, and tax
 administration.</p>
 <p></p>
-<p>The text of the Agreement can be found here &lt;&lt;to insert hyperlink
-to pdf&gt;&gt;.</p>
+<p>The text of the Agreement can be found here.</p>
