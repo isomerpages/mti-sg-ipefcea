@@ -13,8 +13,7 @@ for cross-border electricity trade, promote carbon market activities, collaborat
 on regional and international Carbon Capture, Utilisation and Storage (CCUS)
 value chains, and promote sustainable transport, amongst others.&nbsp;</p>
 <p></p>
-<p>The text of the Agreement can be found here &lt;&lt;to insert hyperlink
-to pdf&gt;&gt;.</p>
+<p>The text of the Agreement can be found here.</p>
 <p></p>
 <h3><strong>Benefits of Clean Economy Agreement</strong></h3>
 <p></p>
@@ -68,7 +67,7 @@ the objective of matching funding to projects and catalysing investment
 into sustainable infrastructure and climate technology. At the invitation
 of the US, Singapore will host the inaugural IPEF Clean Economy Investor
 Forum on 6 June 2024. More information on the Clean Investor Forum can
-be found here &lt;&lt;to include hyperlink to Investor Forum page&gt;&gt;.</p>
+be found <a href="ceif.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>
 <br>
 <br>
