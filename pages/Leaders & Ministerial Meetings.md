@@ -34,7 +34,7 @@ description: ""
 <p></p>
 </li>
 <li>
-<p><a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2023/11/MTI-Press-Release-on-IPEF-Ministerial-Meeting-16-November-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">San Francisco, US, November 2023</a> 
+<p><a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2023/11/MTI-Press-Release-on-IPEF-Ministerial-Meeting-16-November-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">San Francisco, US, November 2023</a>
 </p>
 <p></p>
 </li>
