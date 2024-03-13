@@ -26,8 +26,7 @@ description: ""
 </p>
 </li>
 <li>
-<p>Agreement on the IPEF (to insert text – IPEF team will send over the pdf
-to be uploaded here)</p>
+<p>Agreement on the IPEF</p>
 </li>
 </ul>
 <p></p>
