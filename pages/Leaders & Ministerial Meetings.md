@@ -26,7 +26,7 @@ description: ""
 <ul>
 <li>
 <p><em>[Upcoming]</em> Singapore, 5 - 6 June 2024 - alongside inaugural
-<a href="IPEFinvestorforum.org" rel="noopener noreferrer nofollow" target="_blank">Clean Economy Investor Forum</a>
+<a href="https://www.ipefinvestorforum.org" rel="noopener noreferrer nofollow" target="_blank">Clean Economy Investor Forum</a>
 </p>
 <p></p>
 </li>
