@@ -4,7 +4,7 @@ title: Indo-Pacific Economic Framework for Prosperity
 description: An Isomer site of the Singapore Government
 image: /images/ipef.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Indo-Pacific Economic Framework for Prosperity

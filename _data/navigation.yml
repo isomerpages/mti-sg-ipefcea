@@ -1,11 +1,9 @@
 logo: /images/ipef__1_.png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: About
     url: /about-ipef
   - title: More info
-    url: /permalink
+    url: /leaders-ministerial-meetings
     sublinks:
       - title: Leaders & Ministerial Meetings
         url: /leaders-ministerial-meetings
@@ -13,3 +11,5 @@ links:
         url: /pillars-and-finalised-agreements
       - title: Public Consultations
         url: /public-consultations
+  - title: Contact Us
+    url: /contact-us/

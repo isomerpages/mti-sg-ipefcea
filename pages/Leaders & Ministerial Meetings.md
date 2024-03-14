@@ -25,7 +25,7 @@ description: ""
 <p></p>
 <ul>
 <li>
-<p>Singapore, June 2024 - alongside inaugural <a href="ceif.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Clean Economy Investor Forum</a>
+<p>Singapore, June 2024 - alongside inaugural <a href="IPEFinvestorforum.org" rel="noopener noreferrer nofollow" target="_blank">Clean Economy Investor Forum</a>
 </p>
 <p></p>
 </li>
