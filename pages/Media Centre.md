@@ -10,6 +10,13 @@ description: ""
 </div>
 <ul>
 <li>
+<p><a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2024/03/IPEF-First-Ministerial-Meeting-of-2024" rel="noopener noreferrer nofollow" target="_blank">14 March 2024</a>:
+Indo-Pacific Economic Framework for Prosperity (IPEF) Ministers Advance
+Clean Economy Agreement and Supply Chain Agreement At the First Ministerial
+Meeting of 2024</p>
+<p></p>
+</li>
+<li>
 <p><a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2023/11/MTI-Press-Release-on-IPEF-Ministerial-Meeting-16-November-2023.pdf" rel="noopener noreferrer nofollow" target="_blank">16 November 2023</a>:
 Indo-Pacific Economic Framework for Prosperity (IPEF) Partners Announce
 Significant Outcomes at IPEF Ministerial Meeting in San Francisco</p>
