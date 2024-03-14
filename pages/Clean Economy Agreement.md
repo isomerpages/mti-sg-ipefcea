@@ -67,7 +67,7 @@ IPEF governments, investors, project proponents and entrepreneurs, with
 the objective of matching funding to projects and catalysing investment
 into sustainable infrastructure and climate technology. Singapore will
 host the inaugural IPEF Clean Economy Investor Forum on 5 - 6 June 2024.
-More information on the Clean Economy Investor Forum can be found <a href="http://www.ipefinvestorforum.org" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+More information on the Clean Economy Investor Forum can be found <a href="https://www.ipefinvestorforum.org/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>
 <br>
 <br>
