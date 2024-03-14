@@ -14,5 +14,5 @@ regional business environment. Partners will enhance their efforts to combat
 corruption including bribery, and support efforts to improve tax transparency
 and the exchange of information, domestic resource mobilisation, and tax
 administration.</p>
-<p></p>
-<p>The text of the Agreement can be found here.</p>
+<p>The text of the Agreement can be found here, and the Ministerial Statement
+can be found <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/09/Annex-D---Joint-Ministerial-Statement-on-IPEF-Pillar-4-Clean-Economy.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
