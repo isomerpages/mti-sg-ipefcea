@@ -1,32 +1,30 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Indo-Pacific Economic Framework for Prosperity
+description: An Isomer site of the Singapore Government
+image: /images/ipef.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Indo-Pacific Economic Framework for Prosperity
+      background: /images/IMG_9706.jpg
+      key_highlights:
+        - title: About
+          description: ""
+          url: /about-ipef/
+        - title: Leaders & Ministerial Meetings
+          description: ""
+          url: /leaders-ministerial-meetings
+        - title: Pillars and Finalised Agreements
+          description: ""
+          url: /pillars-and-finalised-agreements
+        - title: Public Consultations
+          description: ""
+          url: /public-consultations
+  - infobar:
+      title: Indo-Pacific Economic Framework for Prosperity
+      subtitle: Media Centre
+      button: Here
+      url: /media-centre
 ---
-
