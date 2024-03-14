@@ -13,7 +13,8 @@ for cross-border electricity trade, promote carbon market activities, collaborat
 on regional and international Carbon Capture, Utilisation and Storage (CCUS)
 value chains, and promote sustainable transport, amongst others.&nbsp;</p>
 <p></p>
-<p>The text of the Agreement can be found here.</p>
+<p>The text of the Agreement can be found <a href="/files/IPEF_PIII_Clean_Economy_Agreement___For_Public_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>,
+and the Ministerial Statement can be found <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/09/Annex-C---Joint-Ministerial-Statement-on-IPEF-Pillar-3-Clean-Economy.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h3><strong>Benefits of Clean Economy Agreement</strong></h3>
 <p></p>
@@ -64,10 +65,9 @@ IPEF countries.</p>
 and finance, including through an annual investor forum that brings together
 IPEF governments, investors, project proponents and entrepreneurs, with
 the objective of matching funding to projects and catalysing investment
-into sustainable infrastructure and climate technology. At the invitation
-of the US, Singapore will host the inaugural IPEF Clean Economy Investor
-Forum on 6 June 2024. More information on the Clean Investor Forum can
-be found <a href="IPEFinvestorforum.org" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+into sustainable infrastructure and climate technology. Singapore will
+host the inaugural IPEF Clean Economy Investor Forum on 5 - 6 June 2024.
+More information on the Clean Economy Investor Forum can be found <a href="IPEFinvestorforum.org" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>
 <br>
 <br>
