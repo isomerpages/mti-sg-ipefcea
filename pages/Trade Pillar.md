@@ -13,7 +13,8 @@ policies in the areas of: labour; the environment; the digital economy;
 agriculture; transparency and good regulatory practices; competition policy;
 trade facilitation; inclusivity; and technical assistance and economic
 cooperation.&nbsp;&nbsp;</p>
-<p>
+<p></p>
+<p>The Ministerial Statement can be found <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/09/Annex-A---Joint-Ministerial-Statement-on-IPEF-Pillar-1-Trade.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
 <br>
 <br>
 <br>
