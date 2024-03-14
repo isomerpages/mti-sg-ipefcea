@@ -53,8 +53,9 @@ also substantially concluded in November 2023.</p>
 </ul>
 <p></p>
 <p>In addition, IPEF partners have substantially concluded negotiations on
-an <strong>Agreement on the IPEF </strong>which will establish an IPEF Ministerial
-Council as well as a Ministerial Joint Commission.</p>
+an <strong><a href="/files/IPEF_Overarching_Agreement___For_Public_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">Agreement on the IPEF</a> </strong>which
+will establish an IPEF Ministerial Council as well as a Ministerial Joint
+Commission.</p>
 <p></p>
 <p>An IPEF Leaders event was held on 16 November 2023 in San Francisco, US,
 during which the Leaders announced that they would meet once every two
