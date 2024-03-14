@@ -13,7 +13,8 @@ for cross-border electricity trade, promote carbon market activities, collaborat
 on regional and international Carbon Capture, Utilisation and Storage (CCUS)
 value chains, and promote sustainable transport, amongst others.&nbsp;</p>
 <p></p>
-<p>The text of the Agreement can be found here.</p>
+<p>The text of the Agreement can be found here, and the Ministerial Statement
+can be found <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/09/Annex-C---Joint-Ministerial-Statement-on-IPEF-Pillar-3-Clean-Economy.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <h3><strong>Benefits of Clean Economy Agreement</strong></h3>
 <p></p>
