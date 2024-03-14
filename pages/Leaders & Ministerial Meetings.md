@@ -31,7 +31,8 @@ description: ""
 <p></p>
 </li>
 <li>
-<p>Virtual Ministerial Meeting, 14 March 2024</p>
+<p><a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2024/03/IPEF-First-Ministerial-Meeting-of-2024" rel="noopener noreferrer nofollow" target="_blank">Virtual Ministerial Meeting, 14 March 2024</a>
+</p>
 <p></p>
 </li>
 <li>
