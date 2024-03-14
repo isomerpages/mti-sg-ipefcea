@@ -26,7 +26,8 @@ description: ""
 </p>
 </li>
 <li>
-<p>Agreement on the IPEF</p>
+<p><a href="/files/IPEF_Overarching_Agreement___For_Public_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">Agreement on the IPEF</a>
+</p>
 </li>
 </ul>
 <p></p>
