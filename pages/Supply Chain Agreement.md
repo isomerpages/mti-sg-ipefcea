@@ -20,8 +20,11 @@ emergency communications and coordination between governments during supply
 chain disruptions; and (c) a tripartite Labour Rights Advisory Board that
 will help promote labour rights in IPEF countries’ supply chains.&nbsp;</p>
 <p></p>
-<p>The text of the Agreement can be found <a href="https://www.mti.gov.sg/-/media/MTI/improving-trade/multilateral-and-regional-forums/IPEF/2023-09-07-IPEF-PillarII-Final-Text_Public-Release.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>,
-and the Ministerial Statement can be found <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/09/Annex-B---Joint-Ministerial-Statement-on-IPEF-Pillar-2-Supply-Chain.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>the text of the agreement can be seen<a href="/files/ipef_supply_chain_agreement_.pdf" rel="noopener noreferrer nofollow" target="_blank">seen</a>
+</p>
+<p></p>
+<p>The text of the Agreement can be found <a href="/files/ipef_supply_chain_agreement_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>, and the Ministerial
+Statement can be found <a href="https://www.mti.gov.sg/-/media/MTI/Newsroom/Press-Releases/2022/09/Annex-B---Joint-Ministerial-Statement-on-IPEF-Pillar-2-Supply-Chain.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>
 <br>
 <br>
