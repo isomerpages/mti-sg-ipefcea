@@ -24,7 +24,7 @@ during which the Leaders announced that they would meet once every two
 years, launched an IPEF Critical Minerals Dialogue, and agreed to explore
 additional cooperative initiatives in areas such as energy security, technology
 and people-to-people ties. Then-Prime Minister Lee Hsien Loong’s remarks
-at the event can be found <a href="https://www.pmo/gov.sg/Newsroom/Intervention-by-PM-Lee-Hsien-Loong-at-the-IPEF-Leaders-Meeting-Nov-202" rel="noopener noreferrer nofollow" target="_blank">here</a>;
+at the event can be found <a href="https://www.pmo.gov.sg/Newsroom/Intervention-by-PM-Lee-Hsien-Loong-at-the-IPEF-Leaders-Meeting-Nov-2023" rel="noopener noreferrer nofollow" target="_blank">here</a>;
 with the Leaders’ Statement issued at the event <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/11/16/leaders-statement-on-indo-pacific-economic-framework-for-prosperity" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <p>
 <br>
