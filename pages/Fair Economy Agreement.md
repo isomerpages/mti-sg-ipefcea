@@ -21,4 +21,4 @@ under the Fair Economy Agreement which seek to support IPEF partner’s implemen
 of their commitments.</p>
 <p>
 <br>The text of the Agreement can be found <a href="/files/IPEF_PIV_Fair_Economy_Agreement___For_Public_Release.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>,
-and the catalogue of TACB initiatives can be found &lt;&lt;here&gt;&gt;.</p>
+and the catalogue of TACB initiatives can be found <a href="/files/Catalogue_of_TACB_Initiatives_for_Pillar_IV.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
