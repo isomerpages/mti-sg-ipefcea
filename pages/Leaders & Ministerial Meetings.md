@@ -17,7 +17,7 @@ description: ""
 <p></p>
 </li>
 <li>
-<p><a href="https://www.pmo.gov.sg/Newsroom/Intervention-by-PM-Lee-Hsien-Loong-at-theVirtual-Launch-of-the-Indo-Pacific-Economic-Framework" rel="noopener noreferrer nofollow" target="_blank">Japan, 23 May 2022</a>
+<p><a href="https://www.pmo.gov.sg/Newsroom/Intervention-by-PM-Lee-Hsien-Loong-at-the-Virtual-Launch-of-the-Indo-Pacific-Economic-Framework" rel="noopener noreferrer nofollow" target="_blank">Japan, 23 May 2022</a>
 </p>
 </li>
 </ul>
