@@ -41,65 +41,37 @@ landscape in the region.</p>
 <p></p>
 <p>The other CWPs are in the areas of:</p>
 <p></p>
-<ol>
-<li>
-<p><strong>Carbon markets</strong>, to identify existing regional carbon
+<p>1) <strong>Carbon markets</strong>, to identify existing regional carbon
 market priorities and strategies for improving the enabling conditions
 for cooperation. A two-day Strategic Dialogue was held in April 2024 which
 focused on regional capacity building for carbon market implementation.</p>
-<p>
-<br>
-</p>
-</li>
-<li>
-<p><strong>Clean electricity</strong>, to facilitate increased decarbonisation
+<p></p>
+<p>2) <strong>Clean electricity</strong>, to facilitate increased decarbonisation
 and access to clean energy in the region. Participating partners have conducted
 a mapping exercise and analysis of existing international efforts on clean
 electricity.</p>
-<p>
-<br>
-</p>
-</li>
-<li>
-<p><strong>Sustainable aviation fuels (SAF)</strong>, to enhance the availability
+<p></p>
+<p>3) <strong>Sustainable aviation fuels (SAF)</strong>, to enhance the availability
 and affordability of SAF and its feedstocks, so as to catalyse and develop
 regional SAF value chains in the region.</p>
-<p>
-<br>
-</p>
-</li>
-<li>
-<p><strong>Workforce development</strong>, to advance employment creation
+<p></p>
+<p>4) <strong>Workforce development</strong>, to advance employment creation
 and strengthen efforts to address employment shifts in the transition towards
 a clean economy.</p>
-<p>
-<br>
-</p>
-</li>
-<li>
-<p><strong>Emissions intensity accounting</strong>, to share information
+<p></p>
+<p>5) <strong>Emissions intensity accounting</strong>, to share information
 on existing standards, reporting systems and methodologies for the assessment,
 identification and trade of emerging low emissions products.</p>
-</li>
-</ol>
 <p></p>
-<ol start="6">
-<li>
-<p><strong>E-waste urban mining</strong>, to facilitate a more sustainable
+<p>6) <strong>E-waste urban mining</strong>, to facilitate a more sustainable
 e-waste management system including through information exchange and activities
 to develop solutions for the efficient recovery of materials.</p>
-</li>
-</ol>
 <p></p>
-<ol start="7">
-<li>
-<p><strong>Small modular reactors (SMR)s</strong>, to support participating
+<p>7) <strong>Small modular reactors (SMR)s</strong>, to support participating
 partners that are seeking to advance their understanding of SMRs, and where
 appropriate, introduce SMRs in their countries under the highest standards
 of safety, security and safeguards.</p>
 <p></p>
-</li>
-</ol>
 <p><u>B. Financing Initiatives</u>
 </p>
 <p></p>
