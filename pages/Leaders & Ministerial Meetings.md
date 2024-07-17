@@ -25,8 +25,9 @@ description: ""
 <p></p>
 <ul>
 <li>
-<p>Singapore, 6 June 2024; held alongside the inaugural Clean Economy Investor
-Forum from 5 - 6 June 2024</p>
+<p><a href="/files/Press_Release_on_IPEF_Ministerial_Meeting_6_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore, 6 June 2024</a>;
+held alongside the inaugural Clean Economy Investor Forum from 5 - 6 June
+2024</p>
 <p></p>
 </li>
 <li>
