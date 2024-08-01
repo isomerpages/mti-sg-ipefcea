@@ -4,6 +4,10 @@ permalink: /clean-economy-agreement/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Banner_Clean_Economy.png">
+</div>
 <p>The Clean Economy Agreement was signed on 6 June 2024, after negotiations
 were substantially concluded on 14 November 2023.&nbsp;</p>
 <p></p>
@@ -17,11 +21,19 @@ value chains, and promote sustainable transport, amongst others.&nbsp;</p>
 <br>
 </p>
 <hr>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Family_Photo.png">
+</div>
 <p><strong>Benefits of Clean Economy Agreement</strong>
 <br>
 </p>
 <p><u>A. Cooperative Work Programmes</u>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/6_Icon_Cooperative_Work_Programmes.png">
+</div>
 <p></p>
 <p>The Clean Economy Agreement establishes a novel mechanism for IPEF partners
 to develop and participate in “Cooperative Work Programmes” (CWPs), which
@@ -75,6 +87,9 @@ of safety, security and safeguards.</p>
 <p><u>B. Financing Initiatives</u>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/6_Icon_Financing_Initiatives.png">
+</div>
 <p>Two financing initiatives have been announced as part of the Clean Economy
 Agreement.&nbsp;</p>
 <p></p>
@@ -101,6 +116,9 @@ catalyse up to US$3.3 billion in private investment.</p>
 <p><u>C. Clean Economy Investor Forum</u>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/6_Icon_Clean_Economy_Investor_Forum.png">
+</div>
 <p>The Clean Economy Agreement includes commitments to mobilise investment
 and sustainable finance to accelerate the transition to clean economies
 within the Indo-Pacific region. To this end, IPEF partners agreed to establish
