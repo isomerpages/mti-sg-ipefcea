@@ -4,6 +4,10 @@ permalink: /supply-chain-agreement/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_Banner_Supply_Chain.png">
+</div>
 <p>The Supply Chain Agreement entered-into-force on 24 February 2024 following
 announcements from Japan, the US, Singapore, Fiji and India that they had
 completed their domestic processes necessary to become Parties to the Agreement.
