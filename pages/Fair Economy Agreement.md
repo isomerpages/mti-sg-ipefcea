@@ -4,6 +4,10 @@ permalink: /fair-economy-agreement/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Banner_Fair_Economy.png">
+</div>
 <p>The Fair Economy Agreement was signed on 6 June 2024, after negotiations
 were substantially concluded on 14 November 2023.&nbsp;</p>
 <p></p>
