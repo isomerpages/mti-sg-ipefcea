@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_8066.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2_Banner_Leaders_and_Ministerial_Meetings.png">
 </div>
 <h3>Leaders' Meetings</h3>
 <p></p>
@@ -17,7 +18,7 @@ description: ""
 <p></p>
 </li>
 <li>
-<p><a href="https://www.pmo.gov.sg/Newsroom/Intervention-by-PM-Lee-Hsien-Loong-at-theVirtual-Launch-of-the-Indo-Pacific-Economic-Framework" rel="noopener noreferrer nofollow" target="_blank">Japan, 23 May 2022</a>
+<p><a href="https://www.pmo.gov.sg/Newsroom/Intervention-by-PM-Lee-Hsien-Loong-at-the-Virtual-Launch-of-the-Indo-Pacific-Economic-Framework" rel="noopener noreferrer nofollow" target="_blank">Japan, 23 May 2022</a>
 </p>
 </li>
 </ul>
@@ -25,9 +26,9 @@ description: ""
 <p></p>
 <ul>
 <li>
-<p><em>[Upcoming]</em> Singapore, 5 - 6 June 2024 - alongside inaugural
-<a href="https://www.ipefinvestorforum.org/" rel="noopener noreferrer nofollow" target="_blank">Clean Economy Investor Forum</a>
-</p>
+<p><a href="/files/Press_Release_on_IPEF_Ministerial_Meeting_6_June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Singapore, 6 June 2024</a>;
+held alongside the inaugural Clean Economy Investor Forum from 5 - 6 June
+2024</p>
 <p></p>
 </li>
 <li>
@@ -45,10 +46,8 @@ description: ""
 <li>
 <p><a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2023/05/Minister-Gan-Kim-Yong-attends-the-Indo-Pacific-Economic-Framework-for-Prosperity-Ministerial-Meeting" rel="noopener noreferrer nofollow" target="_blank">Detroit, US, 26 - 27 May 2023</a>
 </p>
-</li>
-</ul>
 <p></p>
-<ul>
+</li>
 <li>
 <p><a href="https://www.mti.gov.sg/Newsroom/Press-Releases/2022/09/Minister-Gan-Kim-Yong-Participates-In-The-IPEF-Ministerial-Meeting-In-Los-Angeles" rel="noopener noreferrer nofollow" target="_blank">Los Angeles, US, 9 September 2022</a>
 </p>

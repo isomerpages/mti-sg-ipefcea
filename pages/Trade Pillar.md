@@ -4,6 +4,10 @@ permalink: /trade-pillar/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Banner_Trade.png">
+</div>
 <p>Negotiations on the Trade pillar are ongoing.</p>
 <p></p>
 <p>IPEF partners will seek to develop high-standard, inclusive, free, fair,

@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Indo-Pacific Economic Framework for Prosperity
-      background: /images/IMG_9706.jpg
+      title: Indo-Pacific Economic Framework for Prosperity (IPEF)
+      background: /images/0_Banner_Landing_Page.png
       key_highlights:
         - title: About
           description: ""

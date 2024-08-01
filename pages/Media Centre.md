@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20220523_IPEF_Launch_header_png.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_Banner_Media_Centre.png">
 </div>
 <ul>
 <li>
