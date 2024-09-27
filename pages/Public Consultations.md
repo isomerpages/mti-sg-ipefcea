@@ -11,7 +11,7 @@ description: ""
 <p></p>
 <ul>
 <li>
-<p><a href="https://www.mti.gov.sg/Newsroom/Public-Consultations/Past-Consultations/Public-Consultation-on-the-Indo-Pacific-Economic-Framework-Stakeholder-Listening-Session" rel="noopener noreferrer nofollow" target="_blank">13 April 2023</a>:
+<p><a href="https://www.mti.gov.sg/Newsroom/Public-Consultations/Past-Consultations/Public-Consultation-on-the-Indo-Pacific-Economic-Framework" rel="noopener noreferrer nofollow" target="_blank">13 April 2023</a>:
 Stakeholder Listening Session</p>
 <p></p>
 </li>
