@@ -18,7 +18,7 @@ sections:
           url: /leaders-ministerial-meetings
         - title: Pillars and Finalised Agreements
           description: ""
-          url: /pillars-and-finalised-agreements
+          url: /ipef-pillars-and-agreements
         - title: Public Consultations
           description: ""
           url: /public-consultations
